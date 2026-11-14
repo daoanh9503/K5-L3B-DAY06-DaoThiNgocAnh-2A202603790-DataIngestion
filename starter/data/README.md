@@ -19,3 +19,12 @@ To check the file is the same one used in the lab, compare its SHA-256 with the 
 ```bash
 certutil -hashfile starter/data/intro-intellectual-property.pdf SHA256
 ```
+
+## Selected pages only
+
+| File | Content |
+|---|---|
+| `selected-38-pages.pdf` (3.7 MB) | Only the 38 counted pages (chapters 3, 4, 5), copied unmodified from the full PDF |
+| `selected-38-pages_page-map.csv` | Maps each page of the subset file (`new_page`) to its page in the full PDF (`original_pdf_page`) |
+
+The pipeline, `data/manifest.json` and `benchmark/questions.json` (`gold_page`) all use the **original** page numbers of the full PDF. To find a gold page in the subset file, look it up in the page-map CSV. Rebuild both files with `python scripts/extract_selected_pages.py` (run from `starter/`).
