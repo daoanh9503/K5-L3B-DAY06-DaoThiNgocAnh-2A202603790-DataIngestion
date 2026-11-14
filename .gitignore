@@ -9,6 +9,5 @@ __pycache__/
 .pytest_cache/
 *.sqlite
 
-starter/data/*.pdf
 starter/chroma_db/
 starter/chroma_test/
