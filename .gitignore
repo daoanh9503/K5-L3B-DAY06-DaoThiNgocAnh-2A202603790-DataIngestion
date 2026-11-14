@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+
+.env.*
+!.env.example
+.DS_Store
+.pytest_cache/
+*.sqlite
+
+starter/data/*.pdf
+starter/chroma_db/
+starter/chroma_test/

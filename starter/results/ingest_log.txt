@@ -1,0 +1,12 @@
+2026-11-14 11:36:14,909 INFO loaded 38/38 pages from intro-intellectual-property.pdf
+2026-11-14 11:36:18,222 INFO HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+2026-11-14 11:36:18,919 INFO HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+2026-11-14 11:36:18,919 WARNING Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 11:36:18,920 INFO Loading SentenceTransformer model from intfloat/multilingual-e5-small.
+2026-11-14 11:36:19,177 INFO HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+2026-11-14 11:36:20,656 INFO HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-11-14 11:36:20,962 INFO HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-11-14 11:36:25,595 INFO HTTP Request: GET https://huggingface.co/api/models/intfloat/multilingual-e5-small "HTTP/1.1 200 OK"
+2026-11-14 11:36:26,275 INFO HTTP Request: HEAD https://huggingface.co/intfloat/multilingual-e5-small/resolve/614241f622f53c4eeff9890bdc4f31cfecc418b3/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-11-14 11:36:42,041 INFO index A: 265 chunks, embed 13.9s, re-ingest count 265 -> 265
+2026-11-14 11:36:56,046 INFO index B: 200 chunks, embed 12.8s, re-ingest count 200 -> 200

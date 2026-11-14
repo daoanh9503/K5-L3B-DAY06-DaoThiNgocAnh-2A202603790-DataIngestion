@@ -1,0 +1,8 @@
+# Core setup and PDF parsing
+psycopg[binary]==3.3.8
+pypdf==7.1.0
+python-dotenv>=1,<2
+# Pipeline used in this submission (versions actually run)
+chromadb==1.5.9
+sentence-transformers==6.3.0
+torch==2.15.0

@@ -1,0 +1,289 @@
+File: data\intro-intellectual-property.pdf | physical pages: 201
+
+== OUTLINE (depth, PDF page, title) ==
+p7	Contents
+p9	Preface and Foreword
+  p9	About OpenStax
+p17	Chapter 1 Patent Basics
+  p17	Chapter Outline
+  p18	Introduction
+  p18	1.1 The Foundations of Patent Protection
+  p23	1.2 The Weakness of Early Patent Systems
+  p26	1.3 America’s Uniquely Democratic Patent System
+  p35	1.4 The Role of the U.S. Legal System
+  p38	1.5 What the U.S. Patent System Wrought
+  p43	1.6 Patent-Eligible Inventions
+  p50	1.7 Criteria for Patenting
+  p54	1.8 Other Types of Patents
+  p56	1.9 The Patenting Process
+  p60	Assessment Questions
+p65	Chapter 2 Patent Enforcement
+  p65	Chapter Outline
+  p66	Introduction
+  p66	2.1 The Right to Enforce Patents
+  p69	2.2 Deciding Whether and How to Enforce a Patent
+  p71	2.3 Patent Litigation
+  p75	2.4 Getting Started
+  p77	2.5 Pretrial Procedures
+  p82	2.6 Trial
+  p85	2.7 Post-Trial Procedures
+  p91	2.8 Appeals
+  p92	2.9 Litigation Alternatives
+  p94	2.10 Patent Trolls and Efforts to Thwart Them
+  p97	Assessment Questions
+p101	Chapter 3 Copyright Basics
+  p101	Chapter Outline
+  p102	Introduction
+  p102	3.1 The Basics of Copyright
+  p104	3.2 Early Copyright Systems
+  p108	3.3 Copyright in America
+  p114	3.4 Eligible Works
+  p116	3.5 Rights and Term
+  p118	3.6 Infringement and Remedies
+  p121	3.7 The Fair Use Defense
+  p123	3.8 Changes in Copyright Law
+  p130	3.9 New Technology Challenges to Copyright
+  p132	3.10 Alternative Forms of Copyright
+  p133	3.11 Copyright in a Changing World
+  p135	Assessment Questions
+p141	Chapter 4 Trademark Basics
+  p141	Chapter Outline
+  p141	Introduction
+  p141	4.1 Core Concepts
+  p143	4.2 Early Trademark Systems
+  p145	4.3 U.S. Trademark Law
+  p147	4.4 The Four Types of Trademarks
+  p148	4.5 The Subject Matter of Trademarks
+  p152	4.6 The Spectrum of Distinctiveness
+  p154	4.7 Bars to Trademark
+  p157	4.8 Establishing Trademark Protection
+  p160	4.9 Trademark Infringement
+  p162	4.10 Trademark Remedies
+  p163	4.11 Fair Use of Trademarks
+  p165	Assessment Questions
+p171	Chapter 5 Trade Secret Basics
+  p171	Chapter Outline
+  p172	Introduction
+  p172	5.1 Trade Secret Protection
+  p174	5.2 The Foundations of Trade Secrets Law
+  p175	5.3 Elements of a Trade Secret
+  p177	5.4 The Secrecy Requirement
+  p180	5.5 Misappropriation of Trade Secrets
+  p184	5.6 Remedies Available for the Misappropriation of Trade Secrets
+  p188	Assessment Questions
+p191	Appendix A Glossary
+  p191	Chapter 1
+  p191	Chapter 2
+  p192	Chapter 3
+  p192	Chapter 4
+  p193	Chapter 5
+p195	Answer Key
+  p195	Chapter 1
+  p196	Chapter 2
+  p196	Chapter 3
+  p197	Chapter 4
+  p198	Chapter 5
+p201	Index
+
+== PAGES (PDF page, chars, first words) ==
+p1	0	  <-- EMPTY/SHORT
+p2	0	  <-- EMPTY/SHORT
+p3	229	Introduction to Intellectual Property SENIOR CONTRIBUTING AUTHORS DAVI  <-- EMPTY/SHORT
+p4	1293	OpenStax Rice University 6100 Main Street MS-375 Houston, Texas 77005 
+p5	1896	OPENSTAX OpenStax provides free, peer-reviewed, openly licensed textbo
+p6	375	Study where you want, what you want, when you want. When you access yo
+p7	1196	CONTENTS Preface and Foreword 1 Patent Basics 9 1 Introduction 9 1.1 T
+p8	909	3.11 Copyright in a Changing World 125 Assessment Questions 127 Tradem
+p9	3461	Preface and Foreword Welcome to Introduction to Intellectual Property,
+p10	3525	others. Introduction to Intellectual Property covers patent basics and
+p11	3613	Reviewers Paul R. Michel, Chief Judge (ret.) U.S. Court of Appeals for
+p12	4345	on the instrument caused it to explode, sending fragments all througho
+p13	4282	medical device company Medtronic purchased the majority of my patent p
+p14	4522	infringement or fair use. Music critics discuss the implications of th
+p15	2370	the Hoover Institution, and professor emeritus and senior lecturer at 
+p16	45	8 Preface Access for free at openstax.org  <-- EMPTY/SHORT
+p17	468	Figure 1.1 (credit: modification of work “Float Glass Unloading” by IC
+p18	1142	Introduction 1.1 The Foundations of Patent Protection Figure 1.2 The f
+p19	3907	In the United States, a patent is a legal instrument in the form of a 
+p20	1526	Figure 1.3 Patent for an electrode lead for semiconductor devices(cred
+p21	2111	Figure 1.4 Daniel Webster, an American lawyer and statesman. (credit: 
+p22	3382	It’s more than just “likely.” Extensive research in the United States 
+p23	2612	As with any economic and legal instrument, patents have the potential 
+p24	1993	some 50 patent monopolies were granted over the trade in such staples 
+p25	3972	But the biggest problem with early patent systems was that they all sh
+p26	2285	1.3 America’s Uniquely Democratic Patent System Learning Objectives Af
+p27	2828	Figure 1.8 Political cartoon circa 1780 titled "The English Lion Disme
+p28	2456	construct a patent system that would do what no other patent system in
+p29	1979	Or as James Madison put it in Federalist Paper 43, “The public good fu
+p30	4263	technical training. They had only the general knowledge common to citi
+p31	4270	for patents to ensure their novelty, non-obviousness, and utility. The
+p32	3187	Why facilitate the buying and selling of patents? Because doing so ena
+p33	2447	Figure 1.11 Portrait of Thomas Blanchard, circa 1912 (credit: modifica
+p34	3977	In any event, the result of this division of labor between invention a
+p35	3706	1.4 The Role of the U.S. Legal System Learning Objectives After comple
+p36	3061	interactions of inventors themselves. The court’s role was to resolve 
+p37	3998	When looked at over the longer term, however, it turns out that 96 per
+p38	3776	Today’s smartphone wars, then, are simply “back to the future” when it
+p39	2582	patented, even though Britain still had more than twice America’s popu
+p40	2916	As historians Lamoreaux and Sokoloff noted, “[Foreign] observers attri
+p41	2659	Figure 1.14 USPTO Patent No. 2956845 for an axial piston pump. (credit
+p42	2537	Patents and the American Dream It’s not only the economy that the pate
+p43	1725	1.6 Patent-Eligible Inventions Figure 1.15 USPTO Patent No. 326821 for
+p44	2423	You Cannot Patent Ideas All patented inventions fit into one of these 
+p45	2194	Figure 1.16 Portion of the Large Hadron Collider. (credit: Photograph 
+p46	4365	case, here the use of a software algorithm was limited to a specific a
+p47	3872	But by October of 2014, a series of lower court decisions applying the
+p48	2418	in many other industries. Indeed, there are probably just as many or m
+p49	4554	Evidence Shows Software Patents Don’t Hinder Innovation Another argume
+p50	3782	was reversed by the U.S. Court of Appeals for the Federal Circuit in J
+p51	2063	offered for sale by the applicant or their colleagues more than 12 mon
+p52	3084	disclosure of the benefits of your watch to the public. But in the abs
+p53	3995	obvious under Section 103 of the Patent Act. Let’s now dig deeper into
+p54	2046	“The vast majority of all rejections at the patent office are for obvi
+p55	4364	preclude others from making, using, or selling the invention during th
+p56	1921	Like many reporters new to patent issues, the author didn’t realize th
+p57	3459	meet certain other criteria, receive a 50 percent discount on the appl
+p58	2361	Figure 1.22 The first patent drawing for Lizzie Magie's board game, Th
+p59	3760	made it a lot of money. Reviewing the Patent Application Once the pate
+p60	2935	Assessment Questions 1 . A patent gives an inventor the exclusive righ
+p61	2459	following? a. Their abundant natural resources. b. Their large stock o
+p62	2118	d. Technological progress. 18 . A patentable invention is a new, novel
+p63	2269	27 . Which of the following Supreme Court cases held that a naturally 
+p64	2432	c. All of the above. 37 . What are the three patentability criteria fo
+p65	469	Figure 2.1 (credit: modification of work “Lee County Courthouse, Giddi
+p66	1639	Introduction 2.1 The Right to Enforce Patents Figure 2.2 The statue of
+p67	2778	Infringement is a strict liability violation—you do not need to know t
+p68	1291	Figure 2.4 Patent for windshield wiper system with intermittent operat
+p69	2269	2.2 Deciding Whether and How to Enforce a Patent Figure 2.5 (credit: P
+p70	3980	Even small entities and individuals can successfully license a patent 
+p71	2127	2.3 Patent Litigation Figure 2.6 (credit: Photograph by Karen Neoh via
+p72	4921	select your defendants carefully, with your desired end result in mind
+p73	3949	The first two criteria are usually easily determined—i.e., a company’s
+p74	3550	Another issue you face is whether to notify the alleged infringer befo
+p75	1696	2.4 Getting Started Figure 2.7 (credit: Photograph by Mark Fischer via
+p76	4841	Motions to transfer can be filed by a defendant who believes another c
+p77	2271	2.5 Pretrial Procedures Figure 2.8 (credit: Photograph by Nelson Runkl
+p78	3883	proposed schedules (the plaintiff usually seeks speed while the defend
+p79	3634	Depositions are interviews used to elicit testimony from witnesses hav
+p80	4509	Claim Construction Briefing and Hearing In virtually every patent case
+p81	1985	In recent years, most patent cases are resolved on summary judgment an
+p82	1618	2.6 Trial Figure 2.9 (credit: Photograph by Joe Gratz via flickr / CC 
+p83	4573	Once the judge has “excused” from serving any prospective jurors for “
+p84	2997	properly. After the plaintiff rests its case, the defendant presents i
+p85	1788	2.7 Post-Trial Procedures Figure 2.10 (credit: Jim henderson via Wikim
+p86	4737	from outright fabrications of alleged evidence of unexpected results i
+p87	4539	Further, “[i]n making this patentability determination, the court shou
+p88	4420	“We believe that the court is in the best position for making the dete
+p89	3957	or the unreasonable manner in which the case was litigated. District c
+p90	2930	Usually, patentees who are competitors of the infringer can meet these
+p91	2316	2.8 Appeals Figure 2.11 (credit: Photograph by North Charleston via fl
+p92	4289	For example, the Federal Circuit reverses claim construction decisions
+p93	3589	mediators try to get the parties to a full, signed agreement before th
+p94	2368	2.10 Patent Trolls and Efforts to Thwart Them Figure 2.12 (credit: Pho
+p95	4586	multiple defendants, and rely on the presumption of validity accorded 
+p96	2591	District courts, for example, have already begun applying the standard
+p97	3056	Assessment Questions 1 . Responsibility for legally enforcing patents 
+p98	2845	c. Yes, but only if you file suit simultaneously or shortly afterwards
+p99	1994	b. Selling a product despite an objectively high likelihood that it in
+p100	63	92 2 • Assessment Questions Access for free at openstax.org  <-- EMPTY/SHORT
+p101	488	Figure 3.1 (credit: modification of work “Copyright symbol under magni
+p102	1677	Introduction 3.1 The Basics of Copyright Figure 3.2 (credit: Wikimedia
+p103	2609	How to Obtain a Copyright In America, the copyright system is administ
+p104	3843	The Rights of Authors and the Public Interest When it came to copyrigh
+p105	2533	It is important to realize, however, that authorship was not required 
+p106	2789	Much the same situation prevailed in the English copyright system, whe
+p107	1021	Figure 3.5 Photograph of Frontispiece – The Seasons by James Thomson P
+p108	1880	3.3 Copyright in America Figure 3.6 (credit: photograph by Kenneth C. 
+p109	2938	England, but rather to ensure that books with demonstrably practical b
+p110	1889	Figure 3.7 The US Copyright Act of 1790 reprinted in the Colombian Cen
+p111	2163	Figure 3.8 Portrait of Mercy Otis Warren (1728-1814), American writer 
+p112	2203	Figure 3.9 (credit: Original artist: Joseph Ferdinand Keppler (1838-18
+p113	776	Figure 3.10 An engraving of Nathaniel Hawthorne made by H. W. Smith ci
+p114	2055	3.4 Eligible Works Figure 3.11 Parthenon Marbles, East Pediment. Photo
+p115	3724	Note, however, that copyright does not extend to the elements of works
+p116	3638	3.5 Rights and Term Learning Objectives After completing this section,
+p117	4637	subject of interest to the industry. Or let’s say you’re a contractor 
+p118	3260	not apply. (You could sell your hard drive that has your music files o
+p119	4753	Derived from the common law of trespass, infringement of a copyright o
+p120	4258	an injunction against further radio and concert performances of the so
+p121	3646	We have focused solely on the federal penalties for infringement. That
+p122	4064	Peter Griffin sang a revised version of the song “When You Wish Upon a
+p123	1984	Figure 3.12 Verbatim from source: "The President greets the cast and c
+p124	2497	digital video recorder (DVR), the Internet, iTunes media players, and 
+p125	2336	The hope was that this would curb the rampant software piracy then cos
+p126	4394	The RIAA lobbied Congress to enact the No Electronic Theft Act of 1997
+p127	4103	Times put it: “When Senator Hatch laments that George Gershwin’s ‘Rhap
+p128	3806	that’s because DRM makes the e-book reader experience much less enjoya
+p129	2643	let iTunes sell music DRM free: “DRMs haven’t worked, and may never wo
+p130	1957	3.9 New Technology Challenges to Copyright Figure 3.15 (credit: photog
+p131	1919	the CRB. In early December 2015, the music industry waited breathlessl
+p132	1886	3.10 Alternative Forms of Copyright Figure 3.16 (credit: Kristina Alex
+p133	2705	Creative Commons licenses also cannot be revoked, which means that if 
+p134	1123	the United States Copyright Office Maria A. Pallante testified before 
+p135	2871	Assessment Questions 1 . A copyright gives authors, artists, dramatist
+p136	2493	a. France in the sixteenth century. b. England under Queen Anne. c. Th
+p137	1953	c. To ensure widespread public access to knowledge and information. 19
+p138	2318	29 . Which of the following is NOT one of the eight broad categories o
+p139	3002	c. It terminates your distribution rights after you (or your publisher
+p140	3119	copyright. b. It puts the infringer in jail where he cannot commit mor
+p141	1311	Figure 4.1 (credit: modification of work “Close-up of TESLA trademark 
+p142	3548	producers of goods. As modern markets evolved, trademarks also develop
+p143	1155	4.2 Early Trademark Systems Figure 4.2 (credit: Wikimedia Commons / Pu
+p144	2212	Figure 4.3 Triangular dagger with solid handle from the Early Bronze A
+p145	4042	Early Trademark Cases Scholars had until only recently attributed the 
+p146	2016	Those two trademark laws were subsequently overhauled by the Lanham Ac
+p147	1810	4.4 The Four Types of Trademarks Figure 4.4 (credit: photograph by Mik
+p148	2529	devices identify and distinguish the source of a service. Examples of 
+p149	2767	Words, Phrases, and Names There is little confusion about what is mean
+p150	2693	Yet despite the above, one of the most iconic trademarked numbers is 5
+p151	2770	Sounds can also be trademarked provided they indicate the source of th
+p152	3970	A design trademark may be one part of a product’s trade dress, but it 
+p153	4087	In Abercrombie & Fitch Co. v. Hunting World, Inc. (https://www.opensta
+p154	2400	how much evidence a mark owner offers that it has acquired a secondary
+p155	2826	Thus as noted earlier, the scent of a perfume cannot be trademarked be
+p156	3031	Figure 4.11 Macy’s the brand name of the department store chain—is an 
+p157	3702	or not consumers decide to purchase books, clothing, electronics, or a
+p158	4130	them. But because Mr. Tabibian had done his homework and taken the tim
+p159	2379	There are other reasons why an owner might assign trademarks to anothe
+p160	3478	4.9 Trademark Infringement Learning Objectives After completing this s
+p161	4718	a new networking site for professionals was launched that featured a l
+p162	3343	trademark eligible for dilution protection can prevent another company
+p163	1729	4.11 Fair Use of Trademarks Figure 4.13 (credit: Kellogg's via Wikimed
+p164	774	confusion is likely to occur. Classic fair uses typically involve mark
+p165	2543	Assessment Questions 1 . What is the purpose of the intellectual prope
+p166	2876	and a violation of laws against unfair competition. b. It is the first
+p167	2340	C. Tiffany’s blue color. D. The power-on chime in Apple’s Mac computer
+p168	3102	was Amazon able to gain trademark protection for its name, which refer
+p169	683	37 . A party may be permitted the fair use of another’s trademark unde
+p170	64	162 4 • Assessment Questions Access for free at openstax.org  <-- EMPTY/SHORT
+p171	366	Figure 5.1 (credit: modification of work “hush!” by Pixel Addict/flikr
+p172	2087	Introduction 5.1 Trade Secret Protection Figure 5.2 (credit: modificat
+p173	3533	Advantages One of the main advantages of trade secret law is that it p
+p174	4273	5.2 The Foundations of Trade Secrets Law Learning Objectives After com
+p175	4447	argue that any cause of action used to protect trade secrets is preemp
+p176	3041	Figure 5.3 (credit: modification of work by Nial Bradshaw via flickr /
+p177	2051	5.4 The Secrecy Requirement Figure 5.4 (credit: Rob Pongsajapan via fl
+p178	4479	measures taken to secure the information are key to finding whether th
+p179	4401	If possible under the circumstances, physical security measures should
+p180	1974	Although the very nature of many businesses requires that a company di
+p181	4362	Misappropriation through Improper Means The first type of misappropria
+p182	5101	secrets will be misappropriated at some time in the future. Threatened
+p183	3147	trade secrets, a trade secret owner can show that such disclosure is i
+p184	2593	5.6 Remedies Available for the Misappropriation of Trade Secrets Figur
+p185	3580	Definition Injunctive relief allows the owner of a trade secret to leg
+p186	3560	Damages Awarded Damages are often awarded in addition to an injunction
+p187	818	A court may also award attorneys’ fees to a prevailing party in except
+p188	2430	Assessment Questions 1 . Unlike patents and trademarks, the law requir
+p189	2627	a. It was the first trade secret law binding on every state. b. It ser
+p190	1884	b. Appoint a trade secret committee to approve publications, speeches,
+p191	3401	A Glossary Chapter 1 bargain or contract theory The premise that peopl
+p192	3730	Markman hearings Hearings in which parties are permitted to provide th
+p193	3023	service and is therefore not eligible for trademark registration unles
+p194	52	186 A • Glossary Access for free at openstax.org  <-- EMPTY/SHORT
+p195	992	Answer Key Chapter 1 Assessment Questions 1 . B 2 . A 3 . a. and d. 4 
+p196	451	44 . D Chapter 2 Assessment Questions 2 . B 3 . B 4 . A 5 . C 6 . C 7 
+p197	408	24 . A 25 . D 26 . B 27 . A. and B. 28 . B 29 . I 30 . B 31 . C 32 . C
+p198	1108	16 . B 17 . A 18 . A 19 . A. Name (Chanel); B. Device (a sound).; C. D
+p199	65	20 . A 21 . B 22 . B 23 . C 24 . A 25 . B. 26 . B 191  <-- EMPTY/SHORT
+p200	40	192 Access for free at openstax.org  <-- EMPTY/SHORT
+p201	1996	Index A Active disclosure 171 America Invents Act (AIA) 68 Arbitrary m

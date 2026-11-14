@@ -1,0 +1,174 @@
+{
+  "run": {
+    "run_at_utc": "2026-11-14T04:36:59+00:00",
+    "python": "3.13.13",
+    "libraries": {
+      "chromadb": "1.5.9",
+      "sentence-transformers": "6.3.0",
+      "torch": "2.15.0",
+      "pypdf": "7.1.0"
+    },
+    "embedding": {
+      "provider": "local sentence-transformers",
+      "model": "intfloat/multilingual-e5-small",
+      "dimensions": 384,
+      "query_prefix": "query: ",
+      "document_prefix": "passage: ",
+      "normalized": true
+    },
+    "vector_store": {
+      "name": "chroma (PersistentClient)",
+      "path": "starter/chroma_db",
+      "metric": "cosine",
+      "search": "approximate (HNSW)"
+    },
+    "pages_loaded": 38,
+    "pdf_load_seconds": 2.9,
+    "strategies": {
+      "A": {
+        "index": "A",
+        "chunking": "fixed_size",
+        "size": 500,
+        "overlap": 50,
+        "use_filter": false
+      },
+      "B": {
+        "index": "B",
+        "chunking": "by_paragraph",
+        "size": 800,
+        "overlap": 0,
+        "use_filter": false
+      },
+      "C": {
+        "index": "B",
+        "chunking": "by_paragraph",
+        "size": 800,
+        "overlap": 0,
+        "use_filter": true
+      }
+    },
+    "chunk_stats": {
+      "A": {
+        "chunks": 265,
+        "total_chars": 122290,
+        "min": 75,
+        "median": 500,
+        "mean": 461.5,
+        "max": 500,
+        "approx_tokens": 30572,
+        "embed_seconds": 13.9,
+        "reingest_count_before_after": [
+          265,
+          265
+        ],
+        "cost_usd": 0
+      },
+      "B": {
+        "chunks": 200,
+        "total_chars": 110779,
+        "min": 1,
+        "median": 646.5,
+        "mean": 553.9,
+        "max": 800,
+        "approx_tokens": 27695,
+        "embed_seconds": 12.8,
+        "reingest_count_before_after": [
+          200,
+          200
+        ],
+        "cost_usd": 0
+      },
+      "C": {
+        "chunks": 200,
+        "total_chars": 110779,
+        "min": 1,
+        "median": 646.5,
+        "mean": 553.9,
+        "max": 800,
+        "approx_tokens": 27695,
+        "embed_seconds": 12.8,
+        "reingest_count_before_after": [
+          200,
+          200
+        ],
+        "cost_usd": 0,
+        "note": "reuses index B; ingest cost counted once"
+      }
+    },
+    "cost_usd": 0
+  },
+  "metrics": {
+    "A/dev": {
+      "n": 15,
+      "hit_at_1": 9,
+      "hit_at_3": 12,
+      "page_hit_at_3": 14,
+      "evidence_split_suspect": 2,
+      "filter_q": 3,
+      "filter_compliant": 0,
+      "Hit@1": "9/15",
+      "Hit@3": "12/15",
+      "filter": "0/3"
+    },
+    "A/test": {
+      "n": 5,
+      "hit_at_1": 4,
+      "hit_at_3": 4,
+      "page_hit_at_3": 5,
+      "evidence_split_suspect": 1,
+      "filter_q": 1,
+      "filter_compliant": 1,
+      "Hit@1": "4/5",
+      "Hit@3": "4/5",
+      "filter": "1/1"
+    },
+    "B/dev": {
+      "n": 15,
+      "hit_at_1": 8,
+      "hit_at_3": 12,
+      "page_hit_at_3": 13,
+      "evidence_split_suspect": 1,
+      "filter_q": 3,
+      "filter_compliant": 0,
+      "Hit@1": "8/15",
+      "Hit@3": "12/15",
+      "filter": "0/3"
+    },
+    "B/test": {
+      "n": 5,
+      "hit_at_1": 2,
+      "hit_at_3": 4,
+      "page_hit_at_3": 5,
+      "evidence_split_suspect": 1,
+      "filter_q": 1,
+      "filter_compliant": 1,
+      "Hit@1": "2/5",
+      "Hit@3": "4/5",
+      "filter": "1/1"
+    },
+    "C/dev": {
+      "n": 15,
+      "hit_at_1": 8,
+      "hit_at_3": 13,
+      "page_hit_at_3": 14,
+      "evidence_split_suspect": 1,
+      "filter_q": 3,
+      "filter_compliant": 3,
+      "Hit@1": "8/15",
+      "Hit@3": "13/15",
+      "filter": "3/3"
+    },
+    "C/test": {
+      "n": 5,
+      "hit_at_1": 2,
+      "hit_at_3": 4,
+      "page_hit_at_3": 5,
+      "evidence_split_suspect": 1,
+      "filter_q": 1,
+      "filter_compliant": 1,
+      "Hit@1": "2/5",
+      "Hit@3": "4/5",
+      "filter": "1/1"
+    }
+  }
+}

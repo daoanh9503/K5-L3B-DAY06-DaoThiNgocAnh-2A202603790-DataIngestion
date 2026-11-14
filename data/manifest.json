@@ -1,0 +1,416 @@
+[
+  {
+    "source_id": "openstax-iip",
+    "title": "Introduction to Intellectual Property (OpenStax)",
+    "source_path_or_url": "https://openstax.org/details/books/introduction-intellectual-property",
+    "pdf_download_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction-intellectual-property_-_WEB.pdf",
+    "local_path": "starter/data/intro-intellectual-property.pdf (not committed; download from pdf_download_url)",
+    "license_or_permission": "CC BY 4.0 — 'Textbook content is licensed under a Creative Commons Attribution 4.0 International License' (PDF page 4). Book notes it is derived from material by The Michelson 20MM Foundation, with changes.",
+    "accessed_at": "2026-11-14",
+    "physical_pages": 201,
+    "page_numbering": "pdf_page = 1-based physical page index in the PDF file (not the printed page number)",
+    "page_rule": "Counted: body pages of the chosen sections of chapters 3, 4, 5 with >=1500 extracted chars or substantive prose. Excluded: cover, contents, preface, chapter-opener figure pages, Assessment Questions, Glossary, Answer Key, Index, and figure-dominated short pages (e.g. 107, 113, 143, 187).",
+    "filter_field": {
+      "name": "chapter",
+      "type": "string",
+      "values": [
+        "3",
+        "4",
+        "5"
+      ],
+      "source": "PDF bookmarks (Chapter 3/4/5)"
+    },
+    "pages_counted": 38,
+    "total_chars": 127083,
+    "pages": [
+      {
+        "page_id": "iip-p102",
+        "pdf_page": 102,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.1 The Basics of Copyright"
+        ],
+        "char_count": 1677
+      },
+      {
+        "page_id": "iip-p103",
+        "pdf_page": 103,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.1 The Basics of Copyright"
+        ],
+        "char_count": 2609
+      },
+      {
+        "page_id": "iip-p114",
+        "pdf_page": 114,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.4 Eligible Works"
+        ],
+        "char_count": 2055
+      },
+      {
+        "page_id": "iip-p115",
+        "pdf_page": 115,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.4 Eligible Works"
+        ],
+        "char_count": 3724
+      },
+      {
+        "page_id": "iip-p116",
+        "pdf_page": 116,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.5 Rights and Term"
+        ],
+        "char_count": 3638
+      },
+      {
+        "page_id": "iip-p117",
+        "pdf_page": 117,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.5 Rights and Term"
+        ],
+        "char_count": 4637
+      },
+      {
+        "page_id": "iip-p118",
+        "pdf_page": 118,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.5 Rights and Term",
+          "3.6 Infringement and Remedies"
+        ],
+        "char_count": 3260
+      },
+      {
+        "page_id": "iip-p119",
+        "pdf_page": 119,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.6 Infringement and Remedies"
+        ],
+        "char_count": 4753
+      },
+      {
+        "page_id": "iip-p120",
+        "pdf_page": 120,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.6 Infringement and Remedies"
+        ],
+        "char_count": 4258
+      },
+      {
+        "page_id": "iip-p121",
+        "pdf_page": 121,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.6 Infringement and Remedies",
+          "3.7 The Fair Use Defense"
+        ],
+        "char_count": 3646
+      },
+      {
+        "page_id": "iip-p122",
+        "pdf_page": 122,
+        "chapter": "3",
+        "chapter_title": "Copyright Basics",
+        "sections": [
+          "3.7 The Fair Use Defense"
+        ],
+        "char_count": 4064
+      },
+      {
+        "page_id": "iip-p142",
+        "pdf_page": 142,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.1 Core Concepts"
+        ],
+        "char_count": 3548
+      },
+      {
+        "page_id": "iip-p147",
+        "pdf_page": 147,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.4 The Four Types of Trademarks"
+        ],
+        "char_count": 1810
+      },
+      {
+        "page_id": "iip-p148",
+        "pdf_page": 148,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.4 The Four Types of Trademarks",
+          "4.5 The Subject Matter of Trademarks"
+        ],
+        "char_count": 2529
+      },
+      {
+        "page_id": "iip-p149",
+        "pdf_page": 149,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.5 The Subject Matter of Trademarks"
+        ],
+        "char_count": 2767
+      },
+      {
+        "page_id": "iip-p150",
+        "pdf_page": 150,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.5 The Subject Matter of Trademarks"
+        ],
+        "char_count": 2693
+      },
+      {
+        "page_id": "iip-p151",
+        "pdf_page": 151,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.5 The Subject Matter of Trademarks"
+        ],
+        "char_count": 2770
+      },
+      {
+        "page_id": "iip-p152",
+        "pdf_page": 152,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.5 The Subject Matter of Trademarks",
+          "4.6 The Spectrum of Distinctiveness"
+        ],
+        "char_count": 3970
+      },
+      {
+        "page_id": "iip-p153",
+        "pdf_page": 153,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.6 The Spectrum of Distinctiveness"
+        ],
+        "char_count": 4087
+      },
+      {
+        "page_id": "iip-p154",
+        "pdf_page": 154,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.6 The Spectrum of Distinctiveness",
+          "4.7 Bars to Trademark"
+        ],
+        "char_count": 2400
+      },
+      {
+        "page_id": "iip-p155",
+        "pdf_page": 155,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.7 Bars to Trademark"
+        ],
+        "char_count": 2826
+      },
+      {
+        "page_id": "iip-p156",
+        "pdf_page": 156,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.7 Bars to Trademark"
+        ],
+        "char_count": 3031
+      },
+      {
+        "page_id": "iip-p157",
+        "pdf_page": 157,
+        "chapter": "4",
+        "chapter_title": "Trademark Basics",
+        "sections": [
+          "4.7 Bars to Trademark",
+          "4.8 Establishing Trademark Protection"
+        ],
+        "char_count": 3702
+      },
+      {
+        "page_id": "iip-p172",
+        "pdf_page": 172,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.1 Trade Secret Protection"
+        ],
+        "char_count": 2087
+      },
+      {
+        "page_id": "iip-p173",
+        "pdf_page": 173,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.1 Trade Secret Protection"
+        ],
+        "char_count": 3533
+      },
+      {
+        "page_id": "iip-p174",
+        "pdf_page": 174,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.2 The Foundations of Trade Secrets Law"
+        ],
+        "char_count": 4273
+      },
+      {
+        "page_id": "iip-p175",
+        "pdf_page": 175,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.2 The Foundations of Trade Secrets Law",
+          "5.3 Elements of a Trade Secret"
+        ],
+        "char_count": 4447
+      },
+      {
+        "page_id": "iip-p176",
+        "pdf_page": 176,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.3 Elements of a Trade Secret"
+        ],
+        "char_count": 3041
+      },
+      {
+        "page_id": "iip-p177",
+        "pdf_page": 177,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.4 The Secrecy Requirement"
+        ],
+        "char_count": 2051
+      },
+      {
+        "page_id": "iip-p178",
+        "pdf_page": 178,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.4 The Secrecy Requirement"
+        ],
+        "char_count": 4479
+      },
+      {
+        "page_id": "iip-p179",
+        "pdf_page": 179,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.4 The Secrecy Requirement"
+        ],
+        "char_count": 4401
+      },
+      {
+        "page_id": "iip-p180",
+        "pdf_page": 180,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.4 The Secrecy Requirement",
+          "5.5 Misappropriation of Trade Secrets"
+        ],
+        "char_count": 1974
+      },
+      {
+        "page_id": "iip-p181",
+        "pdf_page": 181,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.5 Misappropriation of Trade Secrets"
+        ],
+        "char_count": 4362
+      },
+      {
+        "page_id": "iip-p182",
+        "pdf_page": 182,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.5 Misappropriation of Trade Secrets"
+        ],
+        "char_count": 5101
+      },
+      {
+        "page_id": "iip-p183",
+        "pdf_page": 183,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.5 Misappropriation of Trade Secrets"
+        ],
+        "char_count": 3147
+      },
+      {
+        "page_id": "iip-p184",
+        "pdf_page": 184,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+        ],
+        "char_count": 2593
+      },
+      {
+        "page_id": "iip-p185",
+        "pdf_page": 185,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+        ],
+        "char_count": 3580
+      },
+      {
+        "page_id": "iip-p186",
+        "pdf_page": 186,
+        "chapter": "5",
+        "chapter_title": "Trade Secret Basics",
+        "sections": [
+          "5.6 Remedies Available for the Misappropriation of Trade Secrets"
+        ],
+        "char_count": 3560
+      }
+    ]
+  }
+]

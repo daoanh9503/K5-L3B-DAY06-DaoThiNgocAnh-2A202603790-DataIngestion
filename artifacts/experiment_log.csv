@@ -1,0 +1,4 @@
+strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
+A,fixed_size (chars),500,50,"document_id, source, page, chapter, section, page_id",none,intfloat/multilingual-e5-small (384d) + Chroma cosine,Baseline; small windows may cut evidence mid-sentence,9/15,12/15,4/5,4/5,265 chunks; embed 13.9s (final run); cost 0
+B,structure-aware (heading blocks + whole sentences),800,0,same as A,none,same,Keeping sentences/headings intact improves coherence and evidence completeness,8/15,12/15,2/5,4/5,200 chunks; embed 12.8s (final run); cost 0
+C,same as B (reuses index B),800,0,same as A,chapter (only for questions with a filter),same,Chapter filter fixes ambiguous questions whose answer exists in several chapters,8/15,13/15,2/5,4/5,Only difference vs B is the filter; 4 filter questions (3 dev / 1 test)
