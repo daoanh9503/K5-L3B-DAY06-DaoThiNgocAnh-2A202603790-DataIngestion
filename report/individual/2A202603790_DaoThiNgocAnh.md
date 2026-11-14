@@ -38,11 +38,11 @@
 | Strategy | Split | Hit@1 (n/N) | Evidence Hit@3 (n/N) | Chunk count | Thời gian embed | Chi phí |
 |---|---|---|---|---|---|---|
 | A | dev | 9/15 | 12/15 | 265 | 13,9 giây | 0 |
-| A | test | 4/5 | 4/5 | 265 | | 0 |
+| A | test | 4/5 | 4/5 | 265 | (dùng chung index với dev) | 0 |
 | B | dev | 8/15 | 12/15 | 200 | 12,8 giây | 0 |
-| B | test | 2/5 | 4/5 | 200 | | 0 |
+| B | test | 2/5 | 4/5 | 200 | (dùng chung index với dev) | 0 |
 | C | dev | 8/15 | 13/15 | 200 (index B) | dùng lại index B | 0 |
-| C | test | 2/5 | 4/5 | 200 (index B) | | 0 |
+| C | test | 2/5 | 4/5 | 200 (index B) | (dùng chung index với dev) | 0 |
 
 Thời gian đọc PDF: 2,9 giây. Kiểm tra nạp lại: số chunk giữ nguyên sau 2 lần upsert (A 265 → 265, B 200 → 200). Độ dài chunk: A có trung vị 500 và trung bình 461,5 ký tự; B có trung vị 646,5 và trung bình 553,9 ký tự.
 

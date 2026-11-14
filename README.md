@@ -9,7 +9,7 @@ cd starter
 python -m venv .venv
 # Windows: .venv\Scripts\Activate.ps1   |   macOS/Linux: source .venv/bin/activate
 python -m pip install -r requirements.txt
-# File PDF không có trong repo; tải về từ URL ghi trong manifest (pdf_download_url):
+# File PDF đã có sẵn trong repo (starter/data/, CC BY 4.0). Nếu thiếu, tải lại từ URL trong manifest (pdf_download_url):
 curl -L -o data/intro-intellectual-property.pdf https://assets.openstax.org/oscms-prodcms/media/documents/introduction-intellectual-property_-_WEB.pdf
 python scripts/build_manifest.py      # (tùy chọn) tạo lại data/manifest.json
 python scripts/verify_benchmark.py    # kiểm tra 20 evidence nằm đúng trang gold
